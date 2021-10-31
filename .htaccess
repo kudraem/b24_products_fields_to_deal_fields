@@ -1,0 +1,27 @@
+<Files ".gitignore">
+	Require all denied
+</Files>
+
+<Files ".env">
+	Require all denied
+</Files>
+
+<Files ".env.sample">
+	Require all denied
+</Files>
+
+<Files "composer.json">
+	Require all denied
+</Files>
+
+<Files "composer.lock">
+	Require all denied
+</Files>
+
+<Files "README.md">
+	Require all denied
+</Files>
+
+<Files "*.log">  
+	Require all denied
+</Files>
